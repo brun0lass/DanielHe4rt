@@ -4,7 +4,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Daniel Reis. I currently live in São Paulo, Brazil and my work is to solve bugs at I9XP Technology. 
+My name is Daniel Reis. I currently live in São Paulo, Brazil and my work is to solve bugs at my twitch channel. 
 
 On my free time, I manage the @he4rtdevs community, which is basically a place where beginners search for people who wants to help new developers to find a direction of "know how" to code.
 
