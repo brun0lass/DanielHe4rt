@@ -25,11 +25,3 @@ Nowadays I decided to focus on my TwitchTV channel and make entertainment with c
 * I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
 * I already had 2 private MapleStory servers (Java), 3 GTA SA:MP  private servers (Pawn) and 1 Minecraft Server (Java);
 * I really like to help people.
-
-## What I'm doing RIGHT NOW
-
-**Listening to:** ► Coast Is Clear -  Skrillex ♪♫
-
-**PC Uptime:** up 12 hours, 20 minutes
-
-**Last seen:** 11-09-2020 23:29:46 BRT
