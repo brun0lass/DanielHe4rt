@@ -8,7 +8,7 @@
     <a target='_blank' href="https://instagram.com/danielhe4rt">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/danielhe4rt">
+    <a target='_blank' href="https://linkedin.com/in/danielheart">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a target='_blank' href="https://dev.to/danielhe4rt">
